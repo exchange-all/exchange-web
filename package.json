@@ -14,5 +14,9 @@
     "nuxt": "^3.9.0",
     "vue": "^3.3.13",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "highcharts": "^11.2.0",
+    "highcharts-vue": "^1.4.3"
   }
 }
