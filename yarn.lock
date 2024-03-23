@@ -3015,10 +3015,10 @@ hasown@^2.0.0:
   dependencies:
     function-bind "^1.1.2"
 
-highcharts-vue@^1.4.3:
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/highcharts-vue/-/highcharts-vue-1.4.3.tgz#8cb7452c005282ee70f237021af93725d1c9a4f4"
-  integrity sha512-qIy9EFuLIgOw+reNkTvu0pvMBcSE0BAPtONAqZoEl0qaAIpGxiyXqhRNPDufWieSC0YlybpCznxE8EK19Kcg+A==
+highcharts-vue@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/highcharts-vue/-/highcharts-vue-2.0.1.tgz#296bc6131caadb84edb30524cbd40e302976a52d"
+  integrity sha512-7yVaKvsWlx7OgmKFXE2D99fi/0tr2A85H4KUz3jL7CRQhAwvEvXgtDIyTBGLHJsOC5L9VlppAI7k6KfIi0j0hg==
 
 highcharts@^11.3.0:
   version "11.3.0"
