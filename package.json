@@ -16,7 +16,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "highcharts": "^11.3.0",
+    "highcharts": "^11.4.0",
     "highcharts-vue": "^2.0.1"
   }
 }
